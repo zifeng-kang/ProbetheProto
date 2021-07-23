@@ -5,6 +5,8 @@ We implemented a prototype of ProbetheProto in "Probe the Proto: Measuring Clien
 This repository contains source codes of ProbetheProto: the Chromium-based dynamic-taint-analysis engine, the Exploit Generator module, the Result Validation module and the Defense analysis module. 
 
 ## Dynamic-Taint-Analysis Engine
+The engine is based on Melicher et al.'s work "Riding out DOMsday: Toward Detecting and Preventing DOM Cross-Site Scripting".  https://github.com/wrmelicher/ChromiumTaintTracking
+
 Please check src/install.md for installation and compilation instructions. 
 
 ## Exploit Generator
