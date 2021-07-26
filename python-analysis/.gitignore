@@ -1,0 +1,13 @@
+*_logs/*
+.vscode
+__pycache__
+
+out/*
+tranco_*.csv
+*_log_file
+*.exe
+
+0524*.log
+*count*.py
+*_python3.log
+*crawl*.log
