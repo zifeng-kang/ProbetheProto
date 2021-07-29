@@ -1,0 +1,1 @@
+var data_to_change = {"www.qwe.com": {"Cookie": ["__proto__=testk:testv", "1=3"], "localStorage": {"testk": "111"}, "sessionStorage": {"testk": "testv"}}, "hmv.co.jp": {"Cookie": ["__proto__=Cookie_testk%3DCookie_testv%26VISIT%255FDATE%3D2021%252F05%252F26"], "localStorage": {}, "sessionStorage": {}}};

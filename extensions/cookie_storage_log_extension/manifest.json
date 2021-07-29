@@ -1,0 +1,16 @@
+{
+  "name": "Cookie and Storage Logging Extension",
+  "description": "This is an extension that logs cookie and storage",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "PP Checking Extension"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_end",
+      "js": ["content.js"]
+    }
+  ]
+}

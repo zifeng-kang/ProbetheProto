@@ -1,0 +1,16 @@
+{
+  "name": "Message Logging Extension",
+  "description": "This is an extension that logs messages",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "Message Logging Extension"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_end",
+      "js": ["content.js"]
+    }
+  ]
+}

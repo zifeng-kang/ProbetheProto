@@ -1,0 +1,21 @@
+{
+  "name": "postMessage sender Extension",
+  "description": "This is an extension that sends postMessage",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "postMessage-sending Extension"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_end",
+      "js": [
+        "msg-origin-data-new.js", 
+        "new-content.js"
+      ]
+    }
+  ]
+}
+
+

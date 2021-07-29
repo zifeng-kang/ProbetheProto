@@ -1,0 +1,1 @@
+var data_to_change = {"www.qwe.com": [["google.com", "{\"du\":\"gws\",\"zf\":27}"]], "hmv.co.jp": [["google.com", "{\"du\":\"gws\",\"zf\":27}"]]};
