@@ -8,7 +8,7 @@ This repository contains source codes of ProbetheProto: the Chromium-based dynam
 The engine is based on Melicher et al.'s work "Riding out DOMsday: Toward Detecting and Preventing DOM Cross-Site Scripting".  https://github.com/wrmelicher/ChromiumTaintTracking
 
 We provide a compiled version of the engine under this link:\_\_, as well as its source codes under this link:\_\_. Please download and unzip it here. 
-Afterwards, please check ```taint_engine/install.md``` for installation and compilation instructions; ```taint_engine/crawl.md``` for crawling instructions. Besides, you may refer to https://github.com/zifeng-kang/ChromiumTaintTracking/blob/master/TAINT_TRACKING_README for installing ```depot_tools```, ```capnp``` (https://capnproto.org) and other necessary issues for setting up the environment. 
+Afterwards, please check ```taint_engine/install.md``` for installation and compilation instructions; ```taint_engine/crawl.md``` for crawling instructions. Besides, you may refer to https://github.com/wrmelicher/ChromiumTaintTracking/blob/master/TAINT_TRACKING_README for installing ```depot_tools```, ```capnp``` (https://capnproto.org) and other necessary issues for setting up the environment. 
 
 **Important:** The engine is only for academic use. It is based on a very old version of Chromium and will run without sandbox, so security and privacy shall suffer. We provide **NO** guarantee about its security and privacy and take **NO** responsibility for any possible consequence if you choose to run it.  
 
