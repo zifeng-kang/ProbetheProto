@@ -1732,7 +1732,7 @@
 |resume101.org|387699|URL search|-|Reported|`https://resume101.org/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
 |retailleader.com|227127|URL search|-|Reported|`https://retailleader.com/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
 |retinalphysician.com|739673|URL search|URL-M|Reported|`https://retinalphysician.com/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
-|revenuecat.com|11625|URL search|Cookie-M|Reported|`https://revenuecat.com/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
+|revenuecat.com|11625|URL search|Cookie-M|Fixed|`https://revenuecat.com/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
 |reviewed.com|18161|URL search|Cookie-M, URL-M|Reported|`https://reviewed.com/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
 |revistaoeste.com|83608|URL search|URL-M|Reported|`https://revistaoeste.com/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
 |revitonica.ru|192929|URL search|Cookie-M|Reported|`https://revitonica.ru/?__proto__[1]=v&__proto__.1=v&constructor[prototype][1]=v`
